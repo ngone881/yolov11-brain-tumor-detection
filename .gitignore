@@ -1,0 +1,16 @@
+# Environment variables / secrets
+.env
+
+# Model weights and training artifacts
+*.pt
+*.pth
+runs/
+datasets/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
